@@ -30,7 +30,7 @@ const createAlterTable = async () => {
         console.error("Erro ao criar coluna password:", error);
       });
 }
-// aaa
+// aaaaaaaa
 
 
 createUsersTable().then(() => process.exit(0));
