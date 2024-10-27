@@ -1,0 +1,2 @@
+Send Resquest
+curl -X POST http://localhost:3000/users -H "Content-Type: application/json" -d '{"name": "Jo", "email": "jo@example.com"}'
